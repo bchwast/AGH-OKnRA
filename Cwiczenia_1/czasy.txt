@@ -1,0 +1,17 @@
+2.1 Time: 2.923627e+01 O2 Time: 8.037222e+00 
+2.2 	register Time: 2.551100e+01 
+	register unsigned Time: 2.519376e+01 O2 Time: 8.489073e+00 
+2.3 Time: 2.519376e+01 O2 Time: 8.432944e+00 
+2.4 Time: 2.566099e+01 O2 Time: 8.134091e+00 
+2.5
+	+4 Time: 2.502144e+01 O2 Time: 8.429125e+00 
+	+8 Time: 2.500118e+01 O2 Time: 8.366503e+00 
+2.6
+	register Time: 1.736936e+01
+	register + one sum Time: 1.704560e+01 O2 Time: 8.407844e+00 
+2.7 Time: 7.615503e+00 O1 Time: 4.878220e+00 O2 Time: 5.013814e+00 O3 Time: 4.904497e+00 Ofast Time: 3.885498e+00 
+2.8 Time: 7.050327e+00 O2 Time: 5.312865e+00 
+2.9 Time: 1.514237e+01 O2 Time: 9.586781e+00 
+
+
+	
